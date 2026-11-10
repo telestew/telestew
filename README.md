@@ -1,10 +1,8 @@
-Hello! I'm Stewart and can generally be found on various platforms through the handle of "telestew".
+Mathematician migrated to industry in the ai/software realm.
 
-Mostly trained in Math, some CS, and like to fiddle around in quite a lot of things.
-Topology is my main jam, music is a common activity of mine, and topological data analysis seems like something I should work towards contributing to.
+I can be found through the handle "telestew" most places around the web.
 
-Web3 seems pretty promising if its popular image can get past the "pump and dump baseball card" phase. There's some pretty neat software there I'd like to get more involved with.
-
+Emacs
 <!---
 telestew/telestew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
